@@ -2,7 +2,7 @@
 
 Hi! I'm rkubapl. I'm young developer from poland.
 
-[My page](http://rkubapl.xyz) :diamond_shape_with_a_dot_inside:
+[My page](https://rkuba.pl) :diamond_shape_with_a_dot_inside:
 [Discord](https://discord.gg/3KFuZ5t) :diamond_shape_with_a_dot_inside:
 [Twitter](https://twitter.com/rkubapl) :diamond_shape_with_a_dot_inside:
 [Instagram](https://instagram.com/rkubapl) :diamond_shape_with_a_dot_inside:
