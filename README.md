@@ -22,7 +22,7 @@
 <a href="https://twitter.com/rkubapl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rkubapl" height="30" width="40" /></a>
 <a href="https://fb.com/rkubapl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rkubapl" height="30" width="40" /></a>
 <a href="https://instagram.com/rkubapl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rkubapl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rkubapl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rkubapl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCdupJ-JLCWGcvPU2Ek3RprQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rkubapl" height="30" width="40" /></a>
 <a href="https://discord.gg/3KFuZ5t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="3KFuZ5t" height="30" width="40" /></a>
 </p>
 
