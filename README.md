@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on [Kaczkoland](https://kaczkoland.pl)
 
-- 🌱 I’m currently learning **Docker and GoLang**
+- 🌱 I’m currently learning **Docker and Vue**
 
 - 🤝 I’m looking for help with [Kaczkoland](https://kaczkoland.pl)
 
 - 👨‍💻 All of my projects are available at [https://rkuba.pl](https://rkuba.pl)
-
-- 💬 Ask me about **javascript**
 
 - 📫 How to reach me **kontakt@rkuba.pl**
 
